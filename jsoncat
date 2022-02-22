@@ -1,0 +1,12 @@
+{
+    "stuinfo": [
+
+        { "1", "dhikshi", "20", "female", "MCA", "churchstreet", "a" },
+        { "2", "somesh", "21", "male", "MCA", "diamondcircle", "a" },
+        { "3", "shrasti", "21", "female", "MCA", "sivajinagar", "a" },
+        { "4", "somayan", "21", "male", "MCA", "jayanagar", "a" },
+        { "5", "dhipesh", "20", "male", "MCA", "sgpalya", "a" },
+
+    ]
+
+}
